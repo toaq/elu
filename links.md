@@ -12,7 +12,7 @@
 [Toaq word proposal list](https://docs.google.com/spreadsheets/d/1P9p1D38p364JSiNqLMGwY3zDRPQ_f6Yob_OL-uku28Q/edit#gid=0)  
 [Memrise course of simple predicates, 2018-06-03](https://www.memrise.com/course/1974691/toaq-simple-predicates-2018-06-03/)  
 [toaq 1.0 dict prep](https://docs.google.com/spreadsheets/d/1gRVybdmnvA1p0U9Xh71os8p_zSjWJSjou_qezT79vwY/edit#gid=0)
-[toaq wiki](https://toaq.miraheze.org/wiki/Main_Page )
+[toaq wiki](https://toaq.miraheze.org/wiki/Main_Page)
 
 ## Individuals
 
@@ -30,10 +30,10 @@
 [A serial predicate engine that expands serials into their full forms](https://github.com/acotis/serial-predicate-engine)  
 [A list of predicate frames](https://github.com/acotis/serial-predicate-engine/blob/master/code/dict/frame-list.txt)  
 [An AutoKey script](https://github.com/acotis/autokey-toaq-tones)  
-[ hoa taxonomy ] ( https://discord.com/channels/311223912044167168/311223912044167168/673588772117413940 )  
-[ hoaqgio's cheatsheet for hoekai ] ( https://discord.com/channels/311223912044167168/311223912044167168/674859559411646469 )  
-[ aesop's fables ] ( https://docs.google.com/document/d/13kb0mIKKrhOaZJo0T9_9T7tBjoLOsLropcKtkq_7TmA/edit )  
-[ baq buai huohua ] ( https://docs.google.com/document/d/1GvVFZw5rkhlFzZYw2dXueu6qJWWnZfipEOVN0Y8x4lE/edit )  
+[hoa taxonomy](https://discord.com/channels/311223912044167168/311223912044167168/673588772117413940)  
+[hoaqgio's cheatsheet for hoekai](https://discord.com/channels/311223912044167168/311223912044167168/674859559411646469)  
+[aesop's fables](https://docs.google.com/document/d/13kb0mIKKrhOaZJo0T9_9T7tBjoLOsLropcKtkq_7TmA/edit)  
+[baq buai huohua](https://docs.google.com/document/d/1GvVFZw5rkhlFzZYw2dXueu6qJWWnZfipEOVN0Y8x4lE/edit)  
 
 'Some recordings'
 <https://www.dropbox.com/s/a6qkxzm62byizgc/pairs.zip.bz2?dl=0 >
@@ -56,27 +56,27 @@
 [Tones of Old Toaq](http://selpahi.de/tonediagram.JPG)  
 [Recording of Old Toaq](http://selpahi.de/toaqdzu1.mp3)  
 
-[ omniglot hoelai ] ( https://omniglot.com/conscripts/hoelai.htm )  
-[ something? ] ( http://selpahi.de/guaspi.txt )  
-[ solpahi's lojban page ] ( http://selpahi.de/ )  
-[ toaq rap ] ( https://www.youtube.com/watch?v=n00L4Y4tvDQ&feature=youtu.be )  
-[ toaq pronominals ] ( http://toaq.org/toaqpronominalsystem.html )  
-[ road to gold ] ( http://toaq.org/todo/ )  
-[ missing vocab ] ( https://docs.google.com/spreadsheets/d/1gRVybdmnvA1p0U9Xh71os8p_zSjWJSjou_qezT79vwY/edit#gid=1199220510 )  
+[omniglot hoelai](https://omniglot.com/conscripts/hoelai.htm)  
+[something?](http://selpahi.de/guaspi.txt)  
+[solpahi's lojban page](http://selpahi.de/)  
+[toaq rap](https://www.youtube.com/watch?v=n00L4Y4tvDQ&feature=youtu.be)  
+[toaq pronominals](http://toaq.org/toaqpronominalsystem.html)  
+[road to gold](http://toaq.org/todo/)  
+[missing vocab](https://docs.google.com/spreadsheets/d/1gRVybdmnvA1p0U9Xh71os8p_zSjWJSjou_qezT79vwY/edit#gid=1199220510)  
 
 ### Hoqmio's links
-[ all possible endings ] ( https://gist.githubusercontent.com/Ykulvaarlck/bd6ebafaa9d33195f0148bfdb78a0df8/raw/bdab10ee92940c5521bd1616a99989a11e363dd9/2020-04-17_13-36-49.txt )  
+[all possible endings](https://gist.githubusercontent.com/Ykulvaarlck/bd6ebafaa9d33195f0148bfdb78a0df8/raw/bdab10ee92940c5521bd1616a99989a11e363dd9/2020-04-17_13-36-49.txt)  
 
 
 ### Ilmen's links
 [Proverbs from around the world translated into Toaq](https://pastebin.com/96SRNyH1)  
 [Toaq mathematics](https://docs.google.com/spreadsheets/d/14kofIHlThlkReQYLNZy3pJ4OwZJq1o2eqX-pQYvwd00/edit#gid=0)  
-[ predilex-1 ] ( https://docs.google.com/spreadsheets/d/1z_k_gHH67rBpQTgBOP6diBU-X163jowd-gWxC1CUfEI/edit#gid=1647595539 )
-[ etherpad links ] ( https://discord.com/channels/311223912044167168/311223912044167168/663842120771305472 )  
-[ lambda expressions in toaq ] ( https://pastebin.com/tyNAqngM )  
-[ toaq number system proposals ] ( https://docs.google.com/document/d/1SKcQDRhTIaRXyPQO-5vt1TtmGyrleW3zAp8gebIs3vc/edit )  
-[ badass summary of tones ] ( https://discord.com/channels/311223912044167168/311223912044167168/701709868473778206 )  
-[ chuotiai, hover mouse to see definitions of words ] ( https://toaq.github.io/chuotiai/toaq_tooltip.html )  
+[predilex-1](https://docs.google.com/spreadsheets/d/1z_k_gHH67rBpQTgBOP6diBU-X163jowd-gWxC1CUfEI/edit#gid=1647595539)
+[etherpad links](https://discord.com/channels/311223912044167168/311223912044167168/663842120771305472)  
+[lambda expressions in toaq](https://pastebin.com/tyNAqngM)  
+[toaq number system proposals](https://docs.google.com/document/d/1SKcQDRhTIaRXyPQO-5vt1TtmGyrleW3zAp8gebIs3vc/edit)  
+[badass summary of tones](https://discord.com/channels/311223912044167168/311223912044167168/701709868473778206)  
+[chuotiai, hover mouse to see definitions of words](https://toaq.github.io/chuotiai/toaq_tooltip.html)  
  
 
 ### Lynn's links
@@ -89,7 +89,7 @@
 [Miu's grammar](https://github.com/eaburns/toaq/blob/master/ast/toaq.peg)  
 
 ### Markz's links
-[ grammatical dictionary of toaq and english ] ( https://docs.google.com/document/d/1FlXSr1BvsMPjbmLAuJwty4Afre0C8wHfiNEht41fh-o/edit )  
+[grammatical dictionary of toaq and english](https://docs.google.com/document/d/1FlXSr1BvsMPjbmLAuJwty4Afre0C8wHfiNEht41fh-o/edit)  
 
 ### Niftg's links
 https://niftg.github.io/vietoaq_quizzer_tinkered/  
@@ -107,8 +107,8 @@ https://niftg.gitlab.io/t3wip/tonefiles.html
 [“Words I don't get”](https://docs.google.com/document/d/1NNHLIZ_vg9YpMCBN4hVgkDrYSDeq9AKePc4aWI-TuPg/edit)  
 
 ### Toaqpio's links
-[ word signatures ] ( https://discord.com/channels/311223912044167168/311223912044167168/703465080393564190 )  
-[ po mi toaq ] ( https://drive.google.com/drive/folders/1w8Kof7P3aRHlRz7FrVZgWXHF9qZcrkJw )  
+[word signatures](https://discord.com/channels/311223912044167168/311223912044167168/703465080393564190)  
+[po mi toaq](https://drive.google.com/drive/folders/1w8Kof7P3aRHlRz7FrVZgWXHF9qZcrkJw)  
 
 ### Xeizzeth's links
 [A Memrise course](https://www.memrise.com/course/2207610/toaq-1000-phrases-wip/)  
@@ -134,9 +134,9 @@ https://cdn.discordapp.com/attachments/311223912044167168/488561287400521728/090
 https://cakenggt.github.io/sketchy-language/#/  
 
 ### uncatecorized
-[ how to pronounce q ] ( https://discord.com/channels/311223912044167168/311223912044167168/674463016036597794 ) ( https://discord.com/channels/311223912044167168/311223912044167168/674470640379756557 )  
-[ toaq parser ] ( http://toaq.org/parser/ )  
-[ the great root reallocation ] ( https://docs.google.com/document/d/1doL-HA_r9CQp2DAyu2EDN4KWX17GtO76VF-P1WCO1aU/edit )  
-[ toaq gismu comparison ] ( https://docs.google.com/spreadsheets/d/1nkdH7qm3RY3BOx9wnrRPvg42U8dwUKP4sEfFk9KTMZw/edit#gid=1536644888 )  
-[ toohan ] ( https://docs.google.com/presentation/d/1EJ53bOfWHh_tPhmRl9JWBMR2mSsrJlC5I9qMsIWUMMo/edit#slide=id.gd9c453428_0_16 )  
-[ writeups ] ( https://toaq.github.io/fieqse/ )  
+[how to pronounce q](https://discord.com/channels/311223912044167168/311223912044167168/674463016036597794)(https://discord.com/channels/311223912044167168/311223912044167168/674470640379756557)  
+[toaq parser](http://toaq.org/parser/)  
+[the great root reallocation](https://docs.google.com/document/d/1doL-HA_r9CQp2DAyu2EDN4KWX17GtO76VF-P1WCO1aU/edit)  
+[toaq gismu comparison](https://docs.google.com/spreadsheets/d/1nkdH7qm3RY3BOx9wnrRPvg42U8dwUKP4sEfFk9KTMZw/edit#gid=1536644888)  
+[toohan](https://docs.google.com/presentation/d/1EJ53bOfWHh_tPhmRl9JWBMR2mSsrJlC5I9qMsIWUMMo/edit#slide=id.gd9c453428_0_16)  
+[writeups](https://toaq.github.io/fieqse/)  
